@@ -18,6 +18,7 @@ h2 {
     margin: 0px auto;
     padding: 48px 0px;
     text-align: center;
+    margin-right: 20%;
 }
 
 #content {
@@ -33,10 +34,19 @@ a {
 }
 
 
-/* TABLE*/
+/* Details of contact */
 
-table {
-    font-size: 18px;
+ul {
+    height: 40px;
+}
+
+ul li {
+    line-height: 40px;
+    list-style: none;
+    font-size: 20px;
+    width: 50%;
+    margin-bottom: 10px;
+    padding-left: 10px;
 }
 
 
